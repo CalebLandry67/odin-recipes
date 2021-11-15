@@ -1,0 +1,40 @@
+.font1, .font2, .font3, .font4 {
+    font-family: "Times New Roman", serif;
+    font-weight: 100;
+}
+.font1 {
+    color: RGB(209, 170, 13);
+}
+.font2 {
+    color: rgb(125, 100, 0);
+}
+.font3 {
+    color: red;
+}
+.font4{
+    color: black;
+}
+a {
+    font-family: "Times New Roman", serif;
+    text-decoration: none;
+    color: black;
+}
+.mid {
+    text-align: center;
+    font-size: 100px;
+}
+.mid2 {
+    text-align: center;
+    font-size: 25px;
+}
+.mid3 {
+    text-align: center;
+    font-size: 35px;
+}
+.seperation {
+    padding: 10px;
+}
+.img-mid {
+    margin-left: auto;
+    margin-right: auto;
+}
