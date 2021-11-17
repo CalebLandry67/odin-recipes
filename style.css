@@ -9,7 +9,7 @@
     color: rgb(125, 100, 0);
 }
 .font3 {
-    color: red;
+    color: rgb(181, 36, 0);
 }
 .font4{
     color: black;
@@ -35,6 +35,22 @@ a {
     padding: 10px;
 }
 .img-mid {
+    display: block;
     margin-left: auto;
     margin-right: auto;
+    padding-bottom: 25px;
+}
+.subtitle {
+    font-size: 26px;
+}
+.para {
+    font-size: 18px;
+}
+.img-size {
+    height: auto;
+    width: 600px;
+}
+.img-size2 {
+    height: 400px;
+    width: 600px;
 }
